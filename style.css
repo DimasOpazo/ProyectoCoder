@@ -107,11 +107,4 @@ h3{
 }
 .item5{
     grid-column: 2/4;
-    grid-row:
-}
-@media screen and (max-width: 480px) {
-    .img_collage{
-
-    }
-    
 }
